@@ -1,3 +1,4 @@
+JSON
 {
   "background_color": "#c06363",
   "dir": "ltr",
@@ -8,6 +9,18 @@
   "short_name": "CizîrApp",
   "start_url": "/",
   "theme_color": "#377854",
-  "description": "Cizre tarihi ve alimlerini içeren modern PWA yazabilirsin.",
-  "id": "com.cizirapp.app"
+  "description": "Cizre tarihi ve alimlerini içeren modern PWA yazabılırsın.",
+  "id": "com.cizirapp.app",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
